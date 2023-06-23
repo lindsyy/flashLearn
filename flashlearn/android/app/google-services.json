@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292937259242",
+    "project_id": "flashlearn-c041c",
+    "storage_bucket": "flashlearn-c041c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292937259242:android:b4c25e2282bb1b7c9bdf93",
+        "android_client_info": {
+          "package_name": "com.example.flashlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292937259242-ulrh3q3k2ro5v6cu9pdq3v0mts5n8s9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CVDlQh7ftfaej8lQzu8kj5zkYgqFaWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292937259242-ulrh3q3k2ro5v6cu9pdq3v0mts5n8s9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
